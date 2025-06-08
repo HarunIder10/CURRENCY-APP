@@ -20,7 +20,7 @@ React ile geliştirilmiş bu uygulama sayesinde farklı para birimleri arasında
 
 ## 📸 Ekran Görüntüsü
 
-![Döviz Kuru Uygulaması Ekran Görüntüsü](./assets/image.png) <!-- Bu dosya varsa ekleyebilirsin -->
+![Döviz Kuru Uygulaması Ekran Görüntüsü](./src/assets/image.png) <!-- Bu dosya varsa ekleyebilirsin -->
 
 ## ⚙️ Kurulum ve Çalıştırma
 
