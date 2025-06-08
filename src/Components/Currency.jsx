@@ -44,7 +44,7 @@ function Currency() {
             </div>
 
             <div className='button' onClick={exchance}>
-                <Button style={{ color: 'white', borderColor: 'black', backgroundColor: 'black', cursor: 'pointer' }} variant="outlined">Primary</Button>
+                <Button style={{ color: 'white', borderColor: 'black', backgroundColor: 'black', cursor: 'pointer' }} variant="outlined">Çevir</Button>
             </div>
 
         </div>
